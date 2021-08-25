@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rasul Kamolov</h1>
+<h1 align="center">Hi there 👋, I'm Rasul Kamolov</h1>
 <h3 align="center">A passionate front and backend dev from 🪐</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasulkamolov" alt="rasulkamolov" /></a> </p>
